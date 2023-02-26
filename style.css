@@ -1,0 +1,111 @@
+*{
+padding: 0;
+margin: 0;
+scroll-behavior: smooth;
+}
+
+body {
+height: 4000px;
+}
+
+.seccc {
+padding-left: 35px;
+padding-right:20px ;
+}
+
+.seccc h6 {
+    
+    color: #583FBC;
+    font-size: 12px;
+    letter-spacing: 0.08rem;
+}
+
+.seccc .texttt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.seccc .text-left {
+    font-family: 'ABeeZee';
+    color: #181945;
+    letter-spacing: -0.04rem;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    font-style: normal;
+    opacity: 0.9;
+}
+
+.seccc .text-right {
+    color: #181945;
+    line-height: 28px;
+    letter-spacing: -0.02rem;
+    font-size: 18px;
+    font-weight: 500;
+    display: flex;
+    align-items:flex-end;
+    opacity: 0.8;
+}
+
+
+
+
+
+
+
+
+
+.qqq {
+padding-left: 35px;
+padding-right:20px ;
+}
+
+#text {
+    text-align: center;
+}
+.one {
+position: relative;
+background-color: #DBEFFA;
+width: 290px;
+height: 350px;
+border-radius: 16px;
+}
+
+.one .one-img {
+position: absolute;
+top: 29px;
+left: 30px;
+}
+
+.alone {
+background-color: #DBDEFA;
+width: 290px;
+height: 350px;
+border-radius: 16px;
+}
+
+.two {
+position: relative;
+background-color: #F6DBFA;
+width: 290px;
+height: 350px;
+border-radius: 16px;
+}
+
+.two .two-img {
+position: absolute;
+}
+
+
+
+.three {
+position: relative;
+background-color: #FADBE2;
+width: 290px;
+height: 350px;
+border-radius: 16px;
+}
+
+.three .three-img {
+position: absolute;
+}
